@@ -1,5 +1,4 @@
 ### Credit Card Fraud Detection
-Project Link:
 #### Dataset Overview:
 This project focuses on developing machine learning models to accurately identify fraudulent transactions within a dataset spanning from January 2019 to December 2020. 
 #### Objective:
@@ -12,7 +11,6 @@ Exploration of transaction data intricacies aims to uncover insightful trends an
 By contributing significantly to fraud detection and prevention efforts, the project aims to safeguard financial transactions and protect consumers from fraudulent activities.
 
 ### Customer Churn Prediction
-Project Link:
 #### Dataset Overview:
 The dataset comprises customer data from a U.S. bank, aiming to predict whether a customer will leave the bank or not.
 #### Objective:
@@ -27,10 +25,8 @@ Model performance will be evaluated using appropriate metrics to assess the accu
 By accurately predicting customer churn, businesses can proactively address customer retention strategies, ultimately enhancing customer satisfaction and business profitability.
 
 ### Movie Genre Classification
-Project Link:
 #### Dataset Overview:
 Utilizing IMDb's extensive database of films and television shows, this project aims to develop a machine learning model for predicting the genre of a movie based on its plot summary or textual information.
-
 #### Objective:
 The primary objective is to create a robust machine learning model capable of accurately predicting the genre of a movie. Techniques such as TF-IDF or word embeddings will be employed, along with classifiers like Naive Bayes, Logistic Regression.
 #### Methodology:
@@ -41,7 +37,6 @@ The performance of the model will be evaluated using appropriate metrics to asse
 By accurately predicting movie genres, the model can assist users in discovering and exploring films of their interest, enhancing their overall movie-watching experience.
 
 ### Spam SMS Detection
-Project Link:
 #### Dataset Overview:
 The SMS Spam Collection dataset comprises tagged SMS messages collected for SMS Spam research. It contains 5,574 messages labeled as either ham (legitimate) or spam.
 #### Objective:
