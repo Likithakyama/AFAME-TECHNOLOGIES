@@ -2,7 +2,7 @@
 #### Dataset Overview:
 This project focuses on developing machine learning models to accurately identify fraudulent transactions within a dataset spanning from January 2019 to December 2020. 
 #### Objective:
-The primary objective is to enhance fraud detection accuracy, ensuring the identification of fraudulent patterns amidst legitimate transactions.
+The primary objective is to enhance fraud detection accuracy, ensuring the identification of fraudulent patterns amidst legitimate transactions. 
 #### Methodology:
 Utilizing advanced algorithms like Logistic Regression, Decision Trees, and Random Forests, the analysis targets precise identification of fraudulent activities.
 #### Insights:
