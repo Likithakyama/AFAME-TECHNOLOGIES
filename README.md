@@ -63,3 +63,24 @@ The performance of the model will be evaluated using appropriate metrics to asse
 #### Impact:
 By accurately predicting movie genres, the model can assist users in discovering and exploring films of their interest, enhancing their overall movie-watching experience.
 
+
+### Spam SMS Detection
+
+#### Dataset Overview:
+The SMS Spam Collection dataset comprises tagged SMS messages collected for SMS Spam research. It contains 5,574 messages labeled as either ham (legitimate) or spam.
+
+#### Objective:
+The primary objective is to build an AI model capable of classifying SMS messages as spam or legitimate. Utilizing techniques like TF-IDF or word embeddings alongside classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines, the goal is to effectively identify spam messages.
+
+#### Data Description:
+The dataset includes features v1 and v2, where v1 denotes the label (ham or spam) and v2 contains the SMS message text.
+
+#### Methodology:
+The project will involve preprocessing the text data, including tokenization and vectorization. Subsequently, machine learning algorithms will be applied to train models for classifying SMS messages.
+
+#### Evaluation:
+Model performance will be evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score to assess its effectiveness in detecting spam messages.
+
+#### Impact:
+By accurately detecting spam SMS messages, the model can help users filter out unwanted messages, enhancing their overall communication experience and reducing the risk of falling victim to fraudulent activities.
+
