@@ -18,24 +18,26 @@ Exploration of transaction data intricacies aims to uncover insightful trends an
 #### Impact:
 By contributing significantly to fraud detection and prevention efforts, the project aims to safeguard financial transactions and protect consumers from fraudulent activities.
 
-
-### Movie Genre Classification
+### Customer Churn Prediction
 
 #### Dataset Overview:
-Utilizing IMDb's extensive database of films and television shows, this project aims to develop a machine learning model for predicting the genre of a movie based on its plot summary or textual information.
+The dataset comprises customer data from a U.S. bank, aiming to predict whether a customer will leave the bank or not.
 
 #### Objective:
-The primary objective is to create a robust machine learning model capable of accurately predicting the genre of a movie. Techniques such as TF-IDF or word embeddings will be employed, along with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines.
+The primary goal is to develop a predictive model for customer churn in subscription-based services or businesses. Utilizing historical customer data, including features such as usage behavior and demographics, various algorithms like Logistic Regression, Random Forests, or Gradient Boosting will be explored to forecast churn.
 
+#### Data Description:
+The dataset includes features like CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, and the target variable 'Exited' indicating whether the customer churned or not.
 
 #### Methodology:
-The project will employ a variety of machine learning techniques and algorithms to process the textual data and classify movies into their respective genres. 
+The project will involve preprocessing the data, including handling missing values and encoding categorical variables. Subsequently, machine learning algorithms will be applied to train models for predicting customer churn.
 
 #### Evaluation:
-The performance of the model will be evaluated using appropriate metrics to assess its accuracy and effectiveness in genre classification tasks.
+Model performance will be evaluated using appropriate metrics to assess the accuracy and effectiveness of the churn prediction. Techniques such as cross-validation and hyperparameter tuning may be employed to optimize model performance.
 
 #### Impact:
-By accurately predicting movie genres, the model can assist users in discovering and exploring films of their interest, enhancing their overall movie-watching experience.
+By accurately predicting customer churn, businesses can proactively address customer retention strategies, ultimately enhancing customer satisfaction and business profitability.
+
 
 
 ### Movie Genre Classification
