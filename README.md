@@ -15,8 +15,6 @@ By contributing significantly to fraud detection and prevention efforts, the pro
 The dataset comprises customer data from a U.S. bank, aiming to predict whether a customer will leave the bank or not.
 #### Objective:
 The primary goal is to develop a predictive model for customer churn in subscription-based services or businesses. Utilizing historical customer data, including features such as usage behavior and demographics, various algorithms like Logistic Regression, Random Forests will be explored to forecast churn.
-#### Data Description:
-The dataset includes features like CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, and the target variable 'Exited' indicating whether the customer churned or not.
 #### Methodology:
 The project will involve preprocessing the data, including handling missing values and encoding categorical variables. Subsequently, machine learning algorithms will be applied to train models for predicting customer churn.
 #### Evaluation:
